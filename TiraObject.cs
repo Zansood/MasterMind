@@ -4,10 +4,8 @@ using UnityEngine;
 
 public class TiraObject : MonoBehaviour
 {
-    //public bool EsActive = false;
+    //Manage the ball set at the beginning.
     public bool LinearComplete = false;
-
-    //public GameObject Soluciones;
     public GameObject Ballsobj;
     public Material[] CombinacionActual;
 

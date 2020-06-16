@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Tira : MonoBehaviour
 {
+    //The script that manages the ball and others.
     public bool EsActive = false;
     public bool LinearComplete = false;
 

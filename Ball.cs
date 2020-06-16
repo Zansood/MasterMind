@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Ball : MonoBehaviour
 {
+    //Manage the ball, put the default color Manage coloring conditions.
     public EscogerColor escogerColor;
     public Material colorDefault;
     Mesh meshInical;

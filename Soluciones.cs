@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class Soluciones : MonoBehaviour
 {
+    //Check the selected color that matches the set.
     public bool Facil;
     public GameObject[] SolucionesObj;
     public Material white;

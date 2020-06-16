@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class BallEscogerColor : MonoBehaviour
 {
+    //Manage color selection.
     Material _color;
     public EscogerColor escogerColor;
 
