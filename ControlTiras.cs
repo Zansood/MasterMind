@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class ControlTiras : MonoBehaviour
 {
+    //Scripts to control the layers of objects and check whether active or not.
     public Tira[] tiras;
     public GameObject TiraActiveActual;
     public int numTiraActual;
